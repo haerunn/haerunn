@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @haerunn
 - 👀 I’m interested in PHP, JQuery, WebDev
-- 🌱 I’m currently learning Laravel 8, NodeJS, Express, and MongoDB
+- 🌱 I’m currently learning Laravel 8, Go, NodeJS, Express, and MongoDB
 - 📫 How to reach me haerunn@gmail.com
 
 <!---
